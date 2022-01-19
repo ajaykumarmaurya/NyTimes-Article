@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-bindingcollectionadapter-2.2.0.aar/d1934076055103957477ff78d92f10b0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c2f338101ce9460e5499552f19240ed7/transformed/jetified-bindingcollectionadapter-2.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-bindingcollectionadapter-2.2.0.aar/d1934076055103957477ff78d92f10b0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-bindingcollectionadapter-2.2.0.aar/d1934076055103957477ff78d92f10b0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-bindingcollectionadapter-2.2.0.aar/34079aef5cefb5ea15bcc3236f82f0b2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b916251f56f8aa8b4335b2ca84e85713/transformed/jetified-bindingcollectionadapter-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c2f338101ce9460e5499552f19240ed7/transformed/jetified-bindingcollectionadapter-2.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c2f338101ce9460e5499552f19240ed7/transformed/jetified-bindingcollectionadapter-2.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c2f338101ce9460e5499552f19240ed7/transformed/jetified-bindingcollectionadapter-2.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter/2.2.0/af32ae32aa5baf12c8be26822d9287ed2fa9650f/bindingcollectionadapter-2.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter/2.2.0/6eba694feee74636da05fa3aaa4284335606810c/bindingcollectionadapter-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

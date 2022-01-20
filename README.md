@@ -1,4 +1,4 @@
-# NewYork Times Android Application in Kotlin
+# NewYork Times Android App
 
 # Highlights
 
